@@ -1,0 +1,444 @@
+code_Activite,libelle_Activite,total_Ca_2022,total_Ca_2021,total_Ca_2020
+0111Z,"Culture de céréales (à l'exception du riz), de légumineuses et de graines oléa.",444938141,399356495,380644117
+0119Z,Autres cultures non permanentes,139460278,126256524,113129966
+0121Z,Culture de la vigne,4738922,4684139,4749773
+0124Z,Culture de fruits à pépins et à noyau,7713338,9411024,8624610
+0130Z,Reproduction de plantes,12039362,12115378,9894184
+0143Z,Élevage de chevaux et d'autres équidés,144045,132043,154417
+0145Z,Élevage d'ovins et de caprins,255118,298246,221936
+0147Z,Élevage de volailles,21302909,18867851,19918959
+0149Z,Élevage d'autres animaux,678649,643168,684363
+0150Z,Culture et élevage associés,2531069,4795354,3558349
+0161Z,Activités de soutien aux cultures,56780831,53081587,49642040
+0162Z,Activités de soutien a  la production animale,30356,43212,32875
+0220Z,Exploitation forestière,7436286,6727253,6500215
+0240Z,Services de soutien à l'exploitation forestière,1184582,1524400,923351
+0322Z,Aquaculture en eau douce,7200114,5560996,4938220
+0811Z,"Extra. de pierres ornementales, constr., calcaire indus., gypse, craie, ardoise",1648643,1634421,1785001
+0812Z,"Exploitation de gravieres et sablieres, extraction d'argiles et de kaolin",387581,416391,409881
+1011Z,Transformation et conservation de la viande de boucherie,377271614,348065899,310550497
+1012Z,Transformation et conservation de la viande de volaille,2518483128,2322477135,2188328990
+1013A,Préparation industrielle de produits Ã  base de viande,60086884,50637480,47946085
+1020Z,"Transformation et conservation de poisson, de crustacés et de mollusques",43266688,40279598,38373876
+1031Z,Transformation et conservation de pommes de terre,273303380,250572561,243944194
+1039A,Autre transformation et conservation de légumes,1264129862,1208237110,1236145376
+1039B,Transformation et conservation de fruits,99206055,101644272,102084807
+1041A,Fabrication d'huiles et graisses brutes,188055213,137723409,119312671
+1051A,Fabrication de lait liquide et de produits frais,111102914,107505549,111978744
+1051C,Fabrication de fromage,85810682,79707518,74395257
+1052Z,Fabrication de glaces et sorbets,507455,503029,483762
+1061B,Autres activités du travail des grains,108739962,86947110,80346401
+1071A,Fabrication industrielle de pain et de pâtisserie fraîche,82754410,66722553,61383806
+1071B,Cuisson de produits de boulangerie,69835,83199,92634
+1071C,Boulangerie et boulangerie-pÃ¢tisserie,217825,248752,235529
+1071D,Pâtisserie,14546303,11537755,9693791
+1072Z,"Fabrication de biscuits, biscottes et pâtisseries de conservation",11088429,10243406,9985359
+1081Z,Fabrication de sucre,126871135,84785665,109187871
+1082Z,"Fabrication de cacao, chocolat et de produits de confiserie",37129174,33965582,28202009
+1083Z,Transformation du thé et du café,29935153,27867229,28280963
+1085Z,Fabrication de plats préparés,167827832,129749897,153486257
+1089Z,Fabrication d'autres produits alimentaires n.c.a.,172861679,156445297,164744355
+1091Z,Fabrication d'aliments pour animaux de ferme,351303900,297020791,304209003
+1101Z,Production de boissons alcooliques distillées,1783254350,1555658593,1357014332
+1102A,Fabrication de vins effervescents,33486832,28513808,29620605
+1102B,Vinification,3318924,2726896,2062214
+1105Z,Fabrication de bière,810049,687536,683109
+1310Z,Préparation de fibres textiles et filature,9719887,8205088,7924866
+1320Z,Tissage,10859825,10516458,12547077
+1392Z,"Fabrication d'articles textiles, sauf habillement",82619852,72505418,64861570
+1399Z,Fabrication d'autres textiles n.c.a.,57936,42283,30322
+1413Z,Fabrication de vêtements de dessus,104466708,57101313,75738725
+1414Z,Fabrication de vêtements de dessous,2239236,2023374,2854461
+1419Z,Fabrication d'autres vêtements et accessoires,5854073,5022267,7587795
+1439Z,Fabrication d'autres articles à mailles,8629980,7042446,7621721
+1512Z,"Fabrication d'articles de voyage, de maroquinerie et de sellerie",192364624,145502557,137417457
+1520Z,Fabrication de chaussures,4339528,4741010,7051524
+1610A,"Sciage et rabotage du bois, hors imprégnation",30168919,27815310,30602767
+1610B,Imprégnation du bois,5365997,5443278,4816084
+1621Z,Fabrication de placage et de panneaux de bois,86831263,77656517,68680270
+1623Z,Fabrication de charpentes et d'autres menuiseries,49595698,41403386,43130884
+1624Z,Fabrication d'emballages en bois,84524542,79203971,86978984
+1629Z,"Fab. d'objets divers en bois, fab. d'objets en liÃ¨ge, vannerie, sparterie",160578780,123205090,135114031
+1712Z,Fabrication de papier et de carton,44102572,35956430,37038002
+1721A,Fabrication de carton ondulé,497535101,401174298,421055660
+1721B,Fabrication de cartonnages,7672630,6433210,8719552
+1721C,Fabrication d'emballages en papier,3904251,3234296,3448578
+1729Z,Fabrication d'autres articles en papier ou en carton,14873217,12348863,13563052
+1812Z,Autre imprimerie (labeur),171437664,151792883,170665752
+1813Z,Activités de pré-presse,1028855,1077134,1388880
+1814Z,Reliure et activités connexes,9802250,10888031,13593604
+2014Z,Fabrication d'autres produits chimiques organiques de base,459753519,229462157,347195560
+2015Z,Fabrication de produits azotés et d'engrais,84077509,64851014,61919388
+2016Z,Fabrication de matières plastiques de base,184612970,152117594,164845490
+2020Z,Fabrication de pesticides et d'autres produits agrochimiques,97373385,106521005,131097467
+2041Z,"Fabrication de savons, détergents et produits d'entretien",5853150,8327419,6462201
+2042Z,Fabrication de parfums et de produits pour la toilette,182304119,163353459,190346960
+2053Z,Fabrication d'huiles essentielles,77590978,70202461,58026584
+2059Z,Fabrication d'autres produits chimiques n.c.a.,116999715,90494809,96261825
+2060Z,Fabrication de fibres artificielles ou synthétiques,3775802,3738264,5765815
+2110Z,Fabrication de produits pharmaceutiques de base,12265758,13382821,13514506
+2120Z,Fabrication de préparations pharmaceutiques,706554229,710201917,688454746
+2219Z,Fabrication d'autres articles en caoutchouc,4449617,3620938,4380025
+2221Z,"Fabrication de plaques, feuilles, tubes et profilés en matiÃ¨res plastiques",20832765,13141055,13824589
+2222Z,Fabrication d'emballages en matières plastiques,70394415,53418009,52469891
+2223Z,Fabrication d'éléments en matières plastiques pour la construction,117682170,102374881,93573222
+2229A,Fabrication de pieces techniques Ã  base de matiÃ¨res plastiques,9364592,6689445,7569643
+2229B,Fabrication de produits de consommation courante en matières plastiques,17287008,14938998,14360772
+2312Z,Façonnage et transformation du verre plat,77908807,87595155,119802700
+2320Z,Fabrication de produits réfractaires,12655774,10801734,12009788
+2361Z,Fabrication d'éléments en béton pour la construction,13185612,11151222,10031309
+2363Z,Fabrication de béton prêt à l'emploi,69128439,61895529,53614401
+2370Z,"Taille, façonnage et finissage de pierres",23120363,20584354,19288756
+2420Z,"Fabrication de tubes, tuyaux, profilés creux et access. correspondants en acier",142826654,112940540,115337842
+2433Z,Profilage à froid par formage ou pliage,152137111,105776431,118752781
+2442Z,Métallurgie de l'aluminium,27697993,20642584,26184330
+2444Z,Métallurgie du cuivre,14286018,11485611,12081740
+2445Z,Métallurgie des autres métaux non ferreux,25646395,22674808,28483578
+2451Z,Fonderie de fonte,99061761,61894941,74608190
+2453Z,Fonderie de métaux légers,27342002,21220567,22633639
+2511Z,Fabrication de structures métalliques et de parties de structures,197089762,166266559,154637488
+2512Z,Fabrication de portes et fenetres en métal,3430594,2659348,2782917
+2550A,"Forge, estampage, matriçage - métallurgie des poudres",112025513,88186044,98537024
+2550B,"Découpage, emboutissage",350960414,236753753,272649955
+2561Z,Traitement et revêtement des métaux,77747801,62020185,60520938
+2562A,Décolletage,8982577,6975175,13218361
+2562B,Mécanique industrielle,180994821,143410056,176894188
+2572Z,Fabrication de serrures et de ferrures,83388446,75868918,72427675
+2573A,Fabrication de moules et modèles,11433523,12264958,11510223
+2573B,Fabrication d'autres outillages,6904701,5697323,6520437
+2599B,Fabrication d'autres articles métalliques,13094273,11288759,10603808
+2611Z,Fabrication de composants électroniques,788221238,587020958,611665461
+2612Z,Fabrication de cartes électroniques assemblées,52798956,44599742,47033342
+2620Z,Fabrication d'ordinateurs et d'équipements périphériques,42932328,39378360,45484196
+2630Z,Fabrication d'équipements de communication,3862231,3726665,3665585
+2651B,Fabrication d'instrumentation scientifique et technique,101448233,77926602,89246513
+2711Z,"Fabrication de moteurs, génératrices et transformateurs électriques",30692404,23482126,23647839
+2712Z,Fabrication de matériel de distribution et de commande électrique,37341273,35209674,42918160
+2720Z,Fabrication de piles et d'accumulateurs électriques,187481495,175773747,194371830
+2740Z,Fabrication d'appareils d'éclairage électrique,97785028,107240236,112552532
+2751Z,Fabrication d'appareils électroménagers,18144797,14304864,15443285
+2752Z,Fabrication d'appareils ménagers non électriques,15820129,11020773,9295089
+2790Z,Fabrication d'autres matériels électriques,31415579,27050968,25041965
+2813Z,Fabrication d'autres pompes et compresseurs,176916642,217039930,241450831
+2815Z,Fabrication d'engrenages et d'organes mécaniques de transmission,757046385,704817468,871908691
+281C,FABRICATION DE MENUISERIES ET FERMETURES METALLIQUES,38110667,32494734,28426118
+2822Z,Fabrication de matériel de levage et de manutention,109363921,125736380,159518610
+2824Z,Fabrication d'outillage portatif à moteur incorporé,8505590,6708354,8580593
+2825Z,Fabrication d'équipements aérauliques et frigorifiques industriels,84196251,70006018,75087658
+2829A,"Fabrication d'équipements d'emballage, de conditionnement et de pesage",88696918,92034136,91402799
+2829B,Fabrication d'autres machines d'usage général,32803352,35156329,39073250
+2830Z,Fabrication de machines agricoles et forestières,80936529,65536350,58350520
+2841Z,Fabrication de machines-outils pour le travail des métaux,10078548,7670463,8569569
+2892Z,Fabrication de machines pour l'extraction ou la construction,343189238,287454499,316152595
+2893Z,Fabrication de machines pour l'industrie agro-alimentaire,20312352,17706238,15825427
+2896Z,Fabrication de machines pour le travail du caoutchouc ou des plastiques,6482219,9737283,4200186
+2899A,Fabrication de machines d'imprimerie,20156350,13612210,18928814
+2899B,Fabrication d'autres machines spécialisées,32702809,28726148,61419874
+2920Z,Fabrication de carrosseries et remorques,43470691,38601827,41599767
+2931Z,Fabrication d'équipements électriques et électroniques automobiles,13117227,11641991,12775017
+2932Z,Fabrication d'autres équipements automobiles,240733879,228401376,245442220
+3011Z,Construction de navires et de structures flottantes,41569116,38901893,37978709
+3030Z,Construction aéronautique et spatiale,42371749,38195602,44084638
+3101Z,Fabrication de meubles de bureau et de magasin,58353239,48157862,64405373
+3102Z,Fabrication de meubles de cuisine,91607578,83141968,73659636
+3103Z,Fabrication de matelas,11008832,10565645,816103
+3109B,Fabrication d'autres meubles et industries connexes de l'ameublement,124838856,118750685,43210824
+3212Z,Fabrication d'articles de joaillerie et bijouterie,920970495,639767420,597888050
+3230Z,Fabrication d'articles de sport,4716538,3490971,4860296
+3240Z,Fabrication de jeux et jouets,56015343,55852751,49638432
+3250A,Fabrication de matériel médico-chirurgical et dentaire,58721378,45071526,47935721
+3250B,Fabrication de lunettes,18958443,18070987,19741144
+3299Z,Autres activités manufacturiÃ¨res n.c.a.,48112920,33865720,40646673
+3311Z,Réparation d'ouvrages en métaux,24728054,15164007,11881740
+3312Z,Réparation de machines et équipements mécaniques,88572659,81279446,78976283
+3313Z,Réparation de matériels électroniques et optiques,25541392,22854520,19420563
+3314Z,Réparation d'équipements électriques,6183789,5623215,6629928
+3317Z,Réparation et maintenance d'autres équipements de transport,1127235,1119291,694304
+3319Z,Réparation d'autres équipements,69487,83364,68897
+3320A,"Installation de structures métalliques, chaudronnées et de tuyauterie",18304613,17885578,17071055
+3320B,Installation de machines et équipements mécaniques,56294041,57161181,63781079
+3320C,Concep. d'ens. et ass. sur site indus. d'équi. de contrôle des processus indus,43119483,53712044,45969649
+3320D,"Instal. d'équi. électriques, de matériels électro. optiques ou d'autres mat.",213369676,185023471,194600724
+3511Z,Production d'électricité,193819,189213,161055
+3523Z,Commerce de combustibles gazeux par conduites,588113889,342296363,356218278
+3700Z,Collecte et traitement des eaux usées,3499654,3163141,3047357
+3811Z,Collecte des déchets non dangereux,8907695,7216241,5360888
+3822Z,Traitement et élimination des déchets dangereux,14017523,11292945,12171212
+3831Z,Démantèlement d'épaves,3556310,3428959,3044927
+3832Z,Récupération de déchets triés,252076497,155631265,110090180
+3900Z,Dépollution et autres services de gestion des déchets,251654,314758,257520
+4110A,Promotion immobilière de logements,24311337,20867177,8364846
+4110B,Promotion immobilière de bureaux,6934853,5328042,5220221
+4110C,Promotion immobilière d'autres bâtiments,142372458,107380009,81782518
+4110D,Supports juridiques de programmes,1434384,468066,576392
+4120A,Construction de maisons individuelles,45796771,41288922,40523928
+4120B,Construction d'autres bÃ¢timents,19964340,15050071,13592087
+4211Z,Construction de routes et autoroutes,43033206,40423064,47909710
+4213A,Construction d'ouvrages d'art,8307896,6426768,7096962
+4221Z,Construction de réseaux pour fluides,84332067,69507599,66313636
+4222Z,Construction de réseaux électriques et de télécommunications,30221544,28769237,26575371
+4299Z,Construction d'autres ouvrages de génie civil n.c.a.,25047458,24050342,19484374
+4311Z,Travaux de démolition,14781445,14274615,12726593
+4312A,Travaux de terrassement courants et travaux préparatoires,138404077,128452207,123839105
+4312B,Travaux de terrassement spécialisés ou de grande masse,20263907,26371904,26303462
+4313Z,Forages et sondages,6689628,6157275,5326175
+4321A,Travaux d'installation électrique dans tous locaux,82331910,70978011,71987672
+4322A,Travaux d'installation d'eau et de gaz en tous locaux,71091878,64286031,63663946
+4322B,Travaux d'installation d'équipements thermiques et de climatisation,313465075,267126033,258960016
+4329A,Travaux d'isolation,22415021,19762849,20037471
+4329B,Autres travaux d'installation n.c.a.,19466298,16853663,18063162
+4331Z,Travaux de plâtrerie,4824951,5395875,4525387
+4332A,Travaux de menuiserie bois et pvc,59644868,46119136,48778236
+4332B,Travaux de menuiserie métallique et serrurerie,79230148,63035181,64418784
+4332C,Agencement de lieux de vente,35499142,26470805,521698
+4333Z,Travaux de revetement des sols et des murs,1163301,1188626,596808
+4334Z,Travaux de peinture et vitrerie,37209873,33132887,38408069
+4339Z,Autres travaux de finition,7436901,11864573,11892999
+4391A,Travaux de charpente,26836810,25243526,23399764
+4391B,Travaux de couverture par éléments,46659406,41546931,36210549
+4399A,Travaux d'étanchéification,22327267,17697705,19232769
+4399C,Travaux de maconnerie générale et gros oeuvre de bÃ¢timent,360154,299813,348560
+4399D,Autres travaux spécialisés de construction,5341645,5950654,5372501
+4399E,Location avec opérateur de matériel de construction,4254760,3319723,2735990
+4511Z,Commerce de voitures et de véhicules automobiles légers,6559201546,3428166037,3511310161
+4519Z,Commerce d'autres véhicules automobiles,156953353,149687348,160175263
+4520A,Entretien et réparation de véhicules automobiles légers,73232341,68749327,67648982
+4520B,Entretien et réparation d'autres véhicules automobiles,22606523,20458021,19653657
+4531Z,Commerce de gros d'équipements automobiles,2083894775,1880773209,1151028940
+4532Z,Commerce de détail d'équipements automobiles,78988326,68353804,67867923
+4540Z,Commerce et réparation de motocycles,40694236,34169209,36927051
+4611Z,"Interm. du comm. en mat. prem. agri., ani. viv., mat. prem. text.,prod. s.-finis",21543607,18424970,18755993
+4612B,"Autres intermédiaires du comm. en combus., métaux, minéraux et prod. chimiques",94641733,64232353,71777398
+4613Z,Intermédiaires du commerce en bois et matériaux de construction,1966378,1911486,1322529
+4614Z,"Intermédiaires du commerce en machines, équipements industriels, navires, avions",194169488,175747949,127848514
+4615Z,"Intermédiaires du commerce en meubles, articles de ménage et quincaillerie",11412522,11454235,20358720
+4616Z,"Interm. du comm. en text., habillement, fourrures, chaussures, articles en cuir",2050421,1706509,2725006
+4617A,Centrales d'achat alimentaires,842482695,311417354,391495033
+4617B,"Autres intermédiaires du commerce en denrées, boissons et tabac",1578776,2013400,1542954
+4618Z,Intermédiaires spécialisés dans le commerce d'autres produits spécifiques,84580768,78994769,81299432
+4619A,Centrales d'achat non alimentaires,136472631,118329782,146493260
+4619B,Autres intermédiaires du commerce en produits divers,96453655,106599177,103211319
+4621Z,"Comm. de gros (comm. interent.) céré., tabac non manu., sem. et alim. bétail",1248521984,962002923,1007854587
+4623Z,Commerce de gros (commerce interentreprises) d'animaux vivants,58151284,59221071,44726923
+4631Z,Commerce de gros (commerce interentreprises) de fruits et légumes,299278077,271216558,266562240
+4632A,Commerce de gros (commerce interentreprises) de viandes de boucherie,2050938,2049357,932169
+4632B,Commerce de gros (commerce interentreprises) de produits à base de viande,19229932,18501707,17968122
+4632C,Commerce de gros (commerce interentreprises) de volailles et gibier,33758605,37690009,47710275
+4633Z,"Comm. de gros (comm. interent.) prod. lait., Âœufs, huiles, mat. grasses comest.",52162098,46379341,52227610
+4634Z,Commerce de gros (commerce interentreprises) de boissons,1046546065,831979366,789406070
+4636Z,"Commerce de gros (commerce interentreprises) de sucre, chocolat et confiserie",164615566,173588381,193926972
+4637Z,"Commerce de gros (commerce interentreprises) de café, thé, cacao et épices",27270949,28147758,39003168
+4638A,"Commerce de gros (commerce interentreprises) poissons, crustacés et mollusques",47927816,39128347,41065627
+4638B,Commerce de gros (commerce interentreprises) alimentaire spécialisé divers,229594778,200208957,196550811
+4639A,Commerce de gros (commerce interentreprises) de produits surgelés,131849545,121382473,128031751
+4639B,Commerce de gros (commerce interentreprises) alimentaire non spécialisé,191300965,143729830,167978117
+4641Z,Commerce de gros (commerce interentreprises) de textiles,20029072,11052454,6986890
+4642Z,Commerce de gros (commerce interentreprises) d'habillement et de chaussures,198956024,158487645,174605744
+4643Z,Commerce de gros (commerce interentreprises) d'appareils électroménagers,217317884,210185344,177996663
+4644Z,"Comm. de gros (comm. interent.) de vaisselle, verrerie et produits d'entretien",46560270,36744818,35409316
+4645Z,Comm. de gros (comm. interentreprises) de parfumerie et de produits de beauté,32468319,30554242,41269349
+4646Z,Commerce de gros (commerce interentreprises) de produits pharmaceutiques,1987176233,1781464422,1756629952
+4647Z,"Comm. de gros (comm. interent.) de meubles, de tapis , d'appareils d'éclairage",11200007,11331996,4296083
+4648Z,"Comm. de gros (comm. interentreprises) d'articles d'horlogerie, de bijouterie",57507163,44149921,36901813
+4649Z,Commerce de gros (commerce interentreprises) d'autres biens domestiques,707880233,709619465,603731635
+4651Z,"Comm. de gros (comm. interent.) d'ordi., d'équi. info. périphériques et logi.",5602307727,5366489916,5143209619
+4652Z,Comm. de gros (comm. interent.) de composants et d'équi. électro. et télécom.,314097841,277422604,305875677
+4661Z,Commerce de gros (commerce interentreprises) de matériel agricole,495941861,470463798,460195696
+4662Z,Commerce de gros (commerce interentreprises) de machines-outils,21409862,18834929,21548848
+4663Z,"Comm. de gros (comm. interent.) de mach. extrac., la constr. et génie civil",263208395,232311438,249117734
+4665Z,Commerce de gros (commerce interentreprises) de mobilier de bureau,53018726,43872901,67023102
+4666Z,Comm. de gros (comm. interent.) d'autres machines et équipements de bureau,70666610,71482787,51565055
+4669A,Commerce de gros (commerce interentreprises) de matériel électrique,153953811,87736461,155576962
+4669B,Comm. de gros (comm. interent.) de fournitures et équipements industriels divers,507899754,429748105,448032412
+4669C,Comm. de gros (comm. interent.) de fourn. et équi. div. pour le comm. et serv.,175472665,108915985,174689002
+4671Z,Commerce de gros (commerce interentreprises) de combustibles et de prod. annexes,320370309,233147037,248583548
+4672Z,Commerce de gros (commerce interentreprises) de minerais et métaux,27900188,27244138,35936433
+4673A,Commerce de gros (comm. interent.) de bois et de matériaux de construction,147958567,124894416,117877488
+4673B,Comm. de gros (comm. interent.) d'appareils sanitaires et prod. de décoration,217773257,201077952,201940496
+4674A,Commerce de gros (commerce interentreprises) de quincaillerie,326143937,282875936,245955275
+4674B,Comm. de gros (comm. interent.) de fournitures pour la plomberie et le chauffage,229305353,190154205,185655670
+4675Z,Commerce de gros (commerce interentreprises) de produits chimiques,965373138,675806855,682506016
+4676Z,Commerce de gros (commerce interentreprises) d'autres produits intermédiaires,11386055,10141004,8926076
+4677Z,Commerce de gros (commerce interentreprises) de déchets et débris,2699093,1954444,2330534
+4690Z,Commerce de gros (commerce interentreprises) non spécialisé,279561485,180083675,168127994
+4711A,Commerce de détail de produits surgelés,1689241425,1771278955,1506945964
+4711B,Commerce d'alimentation générale,9448123,9196914,8924878
+4711C,Supérettes,35542613,36432291,40624707
+4711D,Supermarchés,2280019717,2154029897,2103183405
+4711E,Magasins multi-commerces,14416689,12461819,11868322
+4711F,Hypermarchés,8155259999,7542013936,7397307140
+4719A,Grands magasins,6023254,5497666,6488482
+4719B,Autres commerces de détail en magasin non spécialisé,21537669,21420180,26392221
+4721Z,Commerce de détail de fruits et légumes en magasin spécialisé,21800722,20329403,17262083
+4722Z,Commerce de détail de viandes et de produits à base de viande en mag. spécialisé,425723858,408465138,356053359
+4723Z,"Commerce de détail de poissons, crustacés et mollusques en magasin spécialisé",971837,944883,1027716
+4725Z,Commerce de détail de boissons en magasin spécialisé,30945518,30046968,24847314
+4729Z,Autres commerces de détail alimentaires en magasin spécialisé,73881706,69953723,87023359
+4730Z,Commerce de détail de carburants en magasin spécialisé,2119337894,1534957506,2065971455
+4741Z,"Comm. de détail d'ordinateurs, d'unités périph. et de logi. en mag. spécialisé",449368698,387430145,502133407
+4742Z,Commerce de détail de matériels de télécommunication en magasin spécialisé,373326,386951,373709
+4743Z,Commerce de détail de matériels audio et vidéo en magasin spécialisé,1519409,1279531,1053291
+4751Z,Commerce de détail de textiles en magasin spécialisé,5767885,4577304,5825782
+4752A,"Comm. de dét. de quincaillerie, peintures et verres en petites surf. - de 400 m²",1207921,1273169,1078145
+4752B,"Comm. de dét. de quincaillerie, peintures et verres en grandes surf. 400 m² et +",74090008,69414452,60866441
+4759A,Commerce de détail de meubles,64655087,60227215,53067846
+4759B,Commerce de détail d'autres équipements du foyer,60559628,45306530,47351162
+4761Z,Commerce de détail de livres en magasin spécialisé,142265152,129814985,150862970
+4762Z,Commerce de détail de journaux et papeterie en magasin spécialisé,17700767,15899161,12867478
+4764Z,Commerce de détail d'articles de sport en magasin spécialisé,134501331,114496889,117713928
+4765Z,Commerce de détail de jeux et jouets en magasin spécialisé,11131355,9894964,9519378
+4771Z,Commerce de détail d'habillement en magasin spécialisé,1067613274,899473372,1197056157
+4772A,Commerce de détail de la chaussure,30930342,22071918,36759233
+4772B,Commerce de détail de maroquinerie et d'articles de voyage,17475726,10300314,21308883
+4773Z,Commerce de détail de produits pharmaceutiques en magasin spécialisé,4216520,3868731,3721152
+4774Z,Commerce de détail d'articles médicaux et orthopédiques en magasin spécialisé,3638880,4281321,4213472
+4775Z,Commerce de détail de parfumerie et de produits de beauté en magasin spécialisé,2842148,2469943,2927691
+4776Z,"Comm. de dét. fleurs plantes graines engr. ani. de comp., ali. ani. en mag. spéc",44248350,44875753,37699024
+4777Z,Comm. de dét. d'articles d'horlogerie et de bijouterie en magasin spécialisé,455046894,207697661,464235975
+4778A,Commerces de détail d'optique,10738867,10675415,9216075
+4778B,Commerces de détail de charbons et combustibles,130808202,96856234,103352736
+4778C,Autres commerces de détail spécialisés divers,129637298,97434086,129734484
+4779Z,Commerce de détail de biens d'occasion en magasin,2857352,2572664,2839309
+4781Z,Commerce de détail alimentaire sur éventaires et marchés,4506818,4609304,3953420
+4782Z,"Comm. de dét. de textiles, d'habil. et de chaussures sur éventaires et marchés",159401,89108,109333
+4791A,Vente Ã  distance sur catalogue général,92274149,86641439,60201977
+4791B,Vente à distance sur catalogue spécialisé,287131439,277605737,243409055
+4799A,Vente à domicile,1913459,2190162,2318211
+4799B,"Vente par automates et autres comm. de détail hors mag., éven. ou marchés n.c.a.",9342587,7443695,7249742
+4932Z,Transports de voyageurs par taxis,225792,189623,174707
+4939C,Téléphériques et remontées mécaniques,42925894,4019141,34367176
+4941A,Transports routiers de fret interurbains,319474104,277314102,284304756
+4941B,Transports routiers de fret de proximité,166810788,145242931,160425141
+4941C,Location de camions avec chauffeur,166832137,146756945,151806468
+4942Z,Services de déménagement,10291528,9573396,8768605
+5030Z,Transports fluviaux de passagers,51362813,7463363,23641452
+5040Z,Transports fluviaux de fret,469589,458442,368149
+514S,AUTRES COMMERCES DE GROS DE BIENS DE CONSOMMATION,29060733,26323680,25617370
+5210A,Entreposage et stockage frigorifique,29903487,28065168,25784186
+5210B,Entreposage et stockage non frigorifique,123337855,115896351,113910877
+5222Z,Services auxiliaires des transports par eau,4984825,4032519,4560012
+5223Z,Services auxiliaires des transports aériens,1310112,863082,1248419
+5224A,Manutention portuaire,1695099,1231465,888600
+5224B,Manutention non portuaire,468701,387161,401351
+5229A,"Messagerie, fret express",464725345,428936639,348688698
+5229B,Affretement et organisation des transports,45131818,26614946,23401217
+5320Z,Autres activités de poste et de courrier,1157072,1104310,1070521
+5510Z,Hotels et hébergement similaire,82850,45659,93407
+5520Z,Hébergement touristique et autre hébergement de courte durée,401249,340601,404754
+5530Z,Terrains de camping et parcs pour caravanes ou véhicules de loisirs,26574213,22012628,23995893
+5610A,Restauration traditionnelle,253347905,101455479,181948939
+5610C,Restauration de type rapide,29879624,25702846,25458696
+5621Z,Services des traiteurs,81670208,47441998,89509897
+5629A,Restauration collective sous contrat,1085195648,958973566,1059129139
+5629B,Autres services de restauration n.c.a.,36056121,31825397,30881451
+5630Z,Débits de boissons,961265,647493,1021727
+5813Z,Édition de journaux,72646017,17119829,59125931
+5814Z,Édition de revues et périodiques,2741464,2642213,2657380
+5819Z,Autres activités d'édition,2924818,12333283,14779742
+5821Z,Édition de jeux électroniques,35858502,29338247,22133581
+5829A,Édition de logiciels système et de réseau,8105955,8411994,6929904
+5829C,Edition de logiciels applicatifs,34636026,28405423,24817145
+5911A,Production de films et de programmes pour la télévision,58967093,29165390,54037431
+5911C,Production de films pour le cinéma,4954303,4227554,3896089
+5912Z,"Post-production de films cinématographiques, de vidéo et de progr. de télévision",232595530,175018855,166623129
+5913B,Edition et distribution vidéo,28677439,22368024,35661457
+5920Z,Enregistrement sonore et édition musicale,23874384,22279048,14859402
+6020B,Edition de chaînes thématiques,630172,626918,429009
+6110Z,Télécommunications filaires,15611696,13452289,11254590
+6190Z,Autres activités de télécommunication,34570675,30402009,17850331
+6201Z,Programmation informatique,193371738,177789925,191877170
+6202A,Conseil en systemes et logiciels informatiques,4825899,4078532,4019481
+6202B,Tierce maintenance de systèmes et d'applications informatiques,3214828,3130996,3735577
+6203Z,Gestion d'installations informatiques,17374448,17020574,14861918
+6209Z,Autres activités informatiques,42635739,31619166,33853028
+6311Z,"Traitement de données, hébergement et activités connexes",745130215,556627140,468636366
+6391Z,Activités des agences de presse,11113089,10892282,10115126
+6420Z,Activités des sociétés holding,208488456,183496008,189452330
+6430Z,Fonds de placement et entités financières similaires,103641145,86170344,77484151
+6499Z,"Autres acti. des services financiers, hors ass. et caisses de retraite, n.c.a.",13509634,8608565,6440580
+6612Z,Courtage de valeurs mobilières et de marchandises,179357080,146783824,76494928
+6619A,Supports juridiques de gestion de patrimoine mobilier,841721,507472,0
+6619B,"Autres acti. auxi. de services fin., hors assu. et caisses de retraite, n.c.a.",936189,912868,887262
+6621Z,évaluation des risques et dommages,5640739,5420224,5784938
+6622Z,Activités des agents et courtiers d'assurances,23507063,24441236,22633932
+6630Z,Gestion de fonds,20651642,12402515,6879751
+6820B,Location de terrains et d'autres biens immobiliers,273351675,220673108,243517428
+6831Z,Agences immobiliaires,534503,626710,442423
+6832A,Administration d'immeubles et autres biens immobiliers,40510943,39526487,39547423
+6920Z,Activités comptables,707894166,756136519,708470256
+7010Z,Activités des sieges sociaux,10296872,8616906,9894921
+7021Z,Conseil en relations publiques et communication,21974151,18527326,19015889
+7022Z,Conseil pour les affaires et autres conseils de gestion,948293921,792983052,780778949
+7111Z,Activités d'architecture,327519,289832,335642
+7112A,Activité des géomètres,87082,91288,111230
+7112B,"Ingénierie, études techniques",381620308,321047426,296922831
+7120A,Contrôle technique automobile,660175,637812,596464
+7120B,"Analyses, essais et inspections techniques",37804931,32502287,31550717
+7211Z,Recherche-développement en biotechnologie,26230950,15397733,18688070
+7219Z,Recherche-développement en autres sciences physiques et naturelles,33094212,42387447,46678862
+7311Z,Activités des agences de publicité,86668551,65483088,83612024
+7312Z,Régie publicitaire de médias,1308630,1222657,1210331
+7320Z,études de marché et sondages,26954245,24742653,25356129
+7410Z,Activités spécialisées de design,47080865,42801751,49030784
+741G,CONSEIL POUR LES AFFAIRES ET LA GESTION,7410087,6105721,8368272
+7420Z,Activités photographiques,4635961,4163014,5072883
+742C,"INGENIERIE, ETUDES TECHNIQUES",109500,102833,107000
+7430Z,Traduction et interprétation,603298,508319,504426
+7490A,Activité des économistes de la construction,9777096,7629114,9434775
+7490B,"Activités spécialisées, scientifiques et techniques diverses",42778644,36953355,37488565
+7711A,Location de courte durée de voitures et de véhicules automobiles légers,23467653,9015396,13211040
+7712Z,Location et location-bail de camions,21279155,18951518,18730337
+7721Z,Location et location-bail d'articles de loisirs et de sport,514174,444819,478684
+7729Z,Location et location-bail d'autres biens personnels et domestiques,36335979,30256789,10959489
+7732Z,Location et location-bail de machines et équipements pour la construction,1969357,1816872,1851737
+7733Z,Location et location-bail de machines de bureau et de matériel informatique,299926360,273108416,278369642
+7739Z,"Location et location-bail d'autres machines, équi. et biens matériels n.c.a.",198137967,190673211,209035666
+7740Z,Loc.-bail de propr. intel. de prod. simi. Ã  l'excep. d'Âœuvres soumises Ã  copy.,7441809,8631000,8077109
+7820Z,Activités des agences de travail temporaire,127730179,105863988,96217015
+7830Z,Autre mise à disposition de ressources humaines,383196,187284,205647
+7911Z,Activités des agences de voyage,23773756,13382431,38942733
+7912Z,Activités des voyagistes,14345374,5318535,57701979
+7990Z,Autres services de réservation et activités connexes,11362161,4972914,9821408
+8010Z,Activités de sécurité privée,2518896,1882747,2782203
+8020Z,Activités liées aux systèmes de sécurité,1450291,1294036,1260775
+8030Z,Activités d'enquête,7187977,6223268,6392794
+8121Z,Nettoyage courant des bÃ¢timents,4330024,3948151,3958891
+8122Z,Autres activités de nettoyage des bâtiments et nettoyage industriel,1114409,1061532,1501301
+8129A,"Désinfection, désinsectisation, dératisation",1059889,1048163,1054286
+8130Z,Services d'aménagement paysager,45079682,36801590,33721318
+8211Z,Services administratifs combinés de bureau,7369963,6525145,6648479
+8219Z,"Photocopie, prép. de documents et autres acti. spécialisées de soutien de bureau",1323307,1334041,1171669
+8230Z,"Organisation de foires, salons professionnels et congrès",9420889,3594418,8674254
+8291Z,Acti. des ag. de recou. de fact. des sociétés d'info. finan. sur la clientèle,783475,789658,880909
+8292Z,Activités de conditionnement,27527100,25020960,25986869
+8299Z,Autres activités de soutien aux entreprises n.c.a.,92913543,85290102,80178598
+8551Z,Enseignement de disciplines sportives et d'activités de loisirs,577751,493971,550400
+8553Z,Enseignement de la conduite,1497120,1292526,1197430
+8559A,Formation continue d'adultes,49612578,43235890,41770437
+8559B,Autres enseignements,10959985,10544933,9219924
+8610Z,Activités hospitalières,35515474,29172532,27936730
+8690A,Ambulances,8134033,7114737,7333573
+8690F,Activités de santé humaine non classées ailleurs,60145,50848,41463
+8810A,Aide à domicile,937503,956824,816675
+8891A,Accueil de jeunes enfants,300599,285626,158977
+9001Z,Arts du spectacle vivant,34885417,17016709,40055558
+9002Z,Activités de soutien au spectacle vivant,8821579,2710617,12255227
+9003A,Création artistique relevant des arts plastiques,8407227,8395899,8498248
+9004Z,Gestion de salles de spectacles,193578,123735,184617
+9104Z,Gestion des jardins botaniques et zoologiques et des réserves naturelles,13129108,7902588,10114619
+9311Z,Gestion d'installations sportives,1522385,1129853,1323461
+9312Z,Activités de clubs de sports,77591560,59357789,68141159
+9319Z,Autres activités liées au sport,283539,461128,223412
+9321Z,Activités des parcs d'attractions et parcs à thèmes,21793635,15140268,23381147
+9329Z,Autres activités récréatives et de loisirs,1328015,790927,800952
+9511Z,Réparation d'ordinateurs et d'équipements périphériques,690080040,639424979,724594636
+9521Z,Réparation de produits électroniques grand public,1341098,1491209,1499476
+9523Z,Réparation de chaussures et d'articles en cuir,53133,41539,46415
+9524Z,Réparation de meubles et d'équipements du foyer,27253,30268,32483
+9525Z,Réparation d'articles d'horlogerie et de bijouterie,10259339,7743620,11806022
+9529Z,Réparation d'autres biens personnels et domestiques,28522839,22303876,34004582
+9601B,Blanchisserie-teinturerie de détail,581862,536465,629360
+9602A,Coiffure,2505054,2299836,2208092
+9602B,Soins de beauté,1915758,1637293,2052899
+9603Z,Services funéraires,8732780,7393070,6901400
+9609Z,Autres services personnels n.c.a.,378825,330615,367826
